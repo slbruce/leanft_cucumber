@@ -1,6 +1,8 @@
+#Auto generated Octane revision tag
+@TID2178REV0.2.0
 Feature: Shop
 
-  Scenario: Check speakers price
+  Scenario: Check tablets price
     Given I navigate to www.advantageonlineshopping.com
     When I select the tablets category
     And I add the first product to the cart
