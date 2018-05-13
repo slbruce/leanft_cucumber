@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="9.001608">
+<testcase classname="Shop" name="Check speakers price" time="9.001608">
+<system-out><![CDATA[Given I navigate to www.advantageonlineshopping.com.........................passed
+When I select the tablets category..........................................passed
+And I add the first product to the cart.....................................passed
+And I navigate to the cart..................................................passed
+Then the total price is $1,009.00...........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
